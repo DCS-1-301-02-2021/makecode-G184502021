@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwcPAAAAAAAP939w8AAADwfx9//wAAAP//H///DwDwEBERERHwAADw/x///wAAAPD/H///AAAAAP8f/w8AAAAA8B//AAAAAAAAUgIAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bogy"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
